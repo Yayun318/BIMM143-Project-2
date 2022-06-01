@@ -1,5 +1,7 @@
 # BIMM143-Project-2
-# Yayun Xu
+## Author: Yayun Xu
+## Group: Py11
+
 BIMM143 Project 2 Code
 First Draft of Project 2C uploaded
 
